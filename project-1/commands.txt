@@ -1,0 +1,10 @@
+git clone https://github.com/paigenpark/Computational-Social-Science-Projects.git
+cd Computational-Social-Science-Projects
+mkdir project-1
+cd project-1
+touch commands.txt
+nano commands.txt
+git add .
+git commit -m "added commands file"
+git push
+
